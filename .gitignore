@@ -1,6 +1,4 @@
 # Environment variables
-.env
-.env.local
 .env.*.local
 
 # Python
@@ -32,7 +30,6 @@ env/
 .venv
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -49,3 +46,5 @@ htmlcov/
 
 # Logs
 *.log
+config.bat
+node_modules
