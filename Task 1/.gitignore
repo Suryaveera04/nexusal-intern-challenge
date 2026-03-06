@@ -37,10 +37,7 @@ env/
 *.swp
 *.swo
 *~
-
-# OS
 .DS_Store
-Thumbs.db
 
 # Testing
 .pytest_cache/
