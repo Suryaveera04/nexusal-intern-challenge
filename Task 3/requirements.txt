@@ -1,0 +1,9 @@
+# No external dependencies required
+# This project uses only Python standard library modules:
+# - asyncio
+# - random
+# - time
+# - logging
+# - dataclasses
+
+# Minimum Python version: 3.10+
